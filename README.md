@@ -46,3 +46,6 @@ a:hover 表示鼠标划过时的样式
 a:visited 表示已经访问过的连接的样式
 
 "link-visited-hover-active" 简记为 "lvha" 即 "love"+"hate"
+vistten
+lobe+table
+##333666
